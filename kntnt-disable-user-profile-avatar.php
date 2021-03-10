@@ -2,10 +2,10 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       Kntnt Remove User Profile Avatar
+ * Plugin Name:       Kntnt Disable User's Profile Avatar
  * Plugin URI:        https://www.kntnt.com/
- * Description:       Removes the standard profile image from user edit screen.
- * Version:           1.0.0
+ * Description:       Disables the standard profile image from user edit screen.
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
